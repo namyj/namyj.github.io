@@ -22,8 +22,7 @@ author: namyj
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Lear more: ""
   Author's home: "https://namyj.github.io"
 
 ################
